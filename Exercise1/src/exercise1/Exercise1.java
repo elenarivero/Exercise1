@@ -6,7 +6,7 @@ public class Exercise1 {
 		
 		System.out.print("Hello, how are you? ");
 		System.out.println("Fine thanks.");
-
+		System.out.println("Nuevos cambios");
 	}
 
 }
